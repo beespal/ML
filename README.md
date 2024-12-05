@@ -1,2 +1,2 @@
 # ML
-ML course msu.
+Some classic ML.
